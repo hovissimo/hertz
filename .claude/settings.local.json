@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh issue:*)"
+    ]
+  },
+  "prefersReducedMotion": true,
+  "outputStyle": "Learning"
+}
